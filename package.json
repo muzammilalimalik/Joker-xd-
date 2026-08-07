@@ -1,14 +1,12 @@
 {
-  "name": "joker-xd-pairing",
+  "name": "joker-fix-code",
   "version": "1.0.0",
-  "description": "Joker-XD Pairing Site for WhatsApp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.0",
-    "express": "^4.19.2",
     "pino": "^8.19.0"
   }
 }
